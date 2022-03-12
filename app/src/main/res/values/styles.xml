@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="progressBarBlue" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Toolbar.TitelText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">21dp</item>
+    </style>
+</resources>
